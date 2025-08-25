@@ -1,16 +1,34 @@
-# flutter_expense_manager
+# 💰 Expense Manager - Personal Finance App
 
-Personal Finance Manager - Clean Architecture Flutter App
+A beautiful and powerful personal finance management app built with Flutter using Clean Architecture.
 
-## Getting Started
+## 🚀 Features (Coming Soon)
+- ✨ Beautiful and intuitive UI
+- 💰 Track income and expenses
+- 📊 Visual analytics and reports
+- 🏷️ Category-based organization
+- 💾 Local storage with cloud sync
+- 🔒 Secure and private
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Framework:** Flutter
+- **Architecture:** Clean Architecture
+- **State Management:** Bloc Pattern
+- **Database:** SQLite
+- **UI:** Custom Material Design
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
+*Coming soon...*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🎯 Development Progress
+- [x] Project setup and clean architecture
+- [ ] Database layer implementation
+- [ ] Core business logic
+- [ ] UI implementation
+- [ ] Testing
+- [ ] App store deployment
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍💻 Developer
+Built with ❤️ by Gayathri B
+
+Connect with me: [https://www.linkedin.com/in/gayathrib27/ ] | [gayathrib2708@gmail.com]
