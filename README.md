@@ -22,7 +22,7 @@ A beautiful and powerful personal finance management app built with Flutter usin
 
 ## 🎯 Development Progress
 - [x] Project setup and clean architecture
-- [ ] Database layer implementation
+- [x] Database layer implementation
 - [ ] Core business logic
 - [ ] UI implementation
 - [ ] Testing
